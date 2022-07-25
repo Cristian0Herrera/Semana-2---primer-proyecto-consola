@@ -10,6 +10,7 @@ namespace Semana_2___primer_proyecto
     {
         static void Main(string[] args)
         {
+            int num = 1;
         }
     }
 }
