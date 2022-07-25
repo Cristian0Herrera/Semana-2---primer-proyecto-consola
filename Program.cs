@@ -11,6 +11,9 @@ namespace Semana_2___primer_proyecto
         static void Main(string[] args)
         {
             int num = 1;
+            int num = 5;
+
+            Console.WriteLine();
         }
     }
 }
